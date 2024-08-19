@@ -4,6 +4,7 @@
 
 Welcome to **WallChain**—where cutting-edge technology meets supply chain innovation! Inspired by the advancements observed on the Forkites website, WallChain is designed to elevate the efficiency and accuracy of managing trailers in Walmart's distribution network. Our solution integrates state-of-the-art technologies to provide real-time visibility, optimize operations, and streamline supply chain processes like never before.
 
+
 ## Problem Statement
 
 Walmart’s vast distribution network faces a major challenge: the lack of real-time visibility into trailer locations and statuses. This gap in tracking leads to inefficiencies in scheduling, route optimization, and overall supply chain management. The resulting delays, underutilization of assets, and increased operational costs impact both performance and profitability.
